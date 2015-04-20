@@ -1,0 +1,57 @@
+/*
+ Theme Name:   Iconic-One Child
+ Theme URI:    https://github.com/derektu/xqrequest/iconic-one-child/
+ Description:  Iconic-One Child Theme
+ Author:       Derek Tu
+ Author URI:   https://github.com/derektu
+ Template:     iconic-one
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  iconic-one-child
+*/
+
+body {
+    font-size: 16px;
+}
+
+.themonic-nav li {
+    font-size: 16px;
+}
+
+.widget-area .widget-title {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.widget-area .widget li,
+.widget-area .widget .textwidget {
+    font-size: 18px;
+}
+
+.searchform input[type="text"] {
+    font-size: 16px;
+}
+
+.searchform input[type="submit"] {
+    font-size: 16px;
+    margin-left: 2px;
+}
+
+.site-wordpress {
+    display:none;
+}
+
+.archive-title,
+.page-title {
+    font-size: 16px;
+}
+
+.entry-content {
+    font-size: 18px;
+}
+
+.comment-form input[type="submit"] {
+    font-size: 14px;
+}
