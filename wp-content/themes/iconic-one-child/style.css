@@ -14,10 +14,16 @@
 
 body {
     font-size: 16px;
+    color: #000000;
 }
 
 .themonic-nav li {
-    font-size: 16px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.themonic-nav li a {
+    line-height: 2.5;
 }
 
 .widget-area .widget-title {
