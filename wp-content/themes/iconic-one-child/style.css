@@ -54,6 +54,20 @@ body {
     font-size: 16px;
 }
 
+
+.entry-header .entry-title {
+    color: #B23131;
+}
+
+.entry-header .entry-title a {
+    color: #B23131;
+}
+
+.entry-header .entry-title a:hover{
+    color: #de3f16;
+}
+
+
 .entry-content {
     font-size: 18px;
 }
