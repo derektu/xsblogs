@@ -17,6 +17,11 @@ body {
     color: #000000;
 }
 
+.themonic-logo {
+    padding: 0 0 0 0px;
+    margin: 0 0 0 0px;
+}
+
 .themonic-nav li {
     font-size: 18px;
     font-weight: bold;
@@ -26,10 +31,38 @@ body {
     line-height: 2.5;
 }
 
+.themonic-nav ul.nav-menu,
+.themonic-nav div.nav-menu > ul {
+    background:none repeat scroll 0 0 #F3F3F3;
+    border-bottom: 5px solid #3a9ae9;
+    border-top: 3px solid #ededed;
+    display: inline-block !important;
+    text-align: left;
+    width: 100%;
+}
+
+.themonic-nav .current-menu-item > a,
+.themonic-nav .current-menu-ancestor > a,
+.themonic-nav .current_page_item > a,
+.themonic-nav .current_page_ancestor > a {
+    background: none repeat scroll 0 0 #3a9ae9;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+.themonic-nav li:hover {
+    display: inline-block;
+    text-decoration: none;
+    background:#3a9ae9;
+}
+
+
 .widget-area .widget-title {
+    background: #e2e1db;
     font-size: 18px;
     font-weight: bold;
 }
+
 
 .widget-area .widget li,
 .widget-area .widget .textwidget {
@@ -45,13 +78,17 @@ body {
     margin-left: 2px;
 }
 
+#searchsubmit {
+    background: #3a9ae9;
+}
+
 .site-wordpress {
     display:none;
 }
 
 .archive-title,
 .page-title {
-    font-size: 16px;
+    font-size: 18px;
 }
 
 
@@ -74,4 +111,8 @@ body {
 
 .comment-form input[type="submit"] {
     font-size: 14px;
+}
+
+footer.entry-meta {
+    font-size: 15px;
 }
