@@ -15,3 +15,5 @@ sitemap.xml.gz
 wp-config.php
 
 .idea/
+
+wp-snapshots/
