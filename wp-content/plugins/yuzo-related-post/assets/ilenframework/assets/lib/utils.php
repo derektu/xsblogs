@@ -603,7 +603,8 @@ function IF_cut_text(  $text = "",  $length = 30, $strip_tags = false ){
     }
   
     if( strlen( $new_txt  ) > (int)$length ){
-        $new_txt = substr( $new_txt , 0 , (int)$length )."...";
+        // $new_txt = substr( $new_txt , 0 , (int)$length )."...";
+        $new_txt = mb_substr( $new_txt , 0 , (int)$length, "UTF-8" )."...";
     }else{
         $new_txt = substr( $new_txt , 0 , (int)$length );
     }
