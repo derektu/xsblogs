@@ -117,3 +117,7 @@ body {
 footer.entry-meta {
     font-size: 15px;
 }
+
+.adt-comment {
+    display:none;
+}
