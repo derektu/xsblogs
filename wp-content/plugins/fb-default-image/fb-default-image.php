@@ -36,7 +36,7 @@ Author URI: https://github.com/derektu
  */
 function my_ogp_filter( $meta_tags ) {
     $meta_tags['http://ogp.me/ns#image'][] = array(
-        'url' => 'http://s.wordpress.org/about/images/logos/wordpress-logo-notext-rgb.png',
+        'url' => '/wp-content/plugins/fb-default-image/default.png',
         'type' => 'image/png',
         'width' => 500,
         'height' => 500
