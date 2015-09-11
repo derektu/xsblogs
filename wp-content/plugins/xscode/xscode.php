@@ -75,6 +75,9 @@ function xs_register_shortcodes(){
 }
 add_action('init', 'xs_register_shortcodes');
 
+// Disable wptexturize: so that double quote char remains double quote char !!
+//
+remove_filter('the_content', 'wptexturize');
 
 function xscode_shortcode($atts, $content = null) {
     // <pre class="brush:xs"> $content </pre>

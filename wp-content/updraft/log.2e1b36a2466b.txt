@@ -1,0 +1,299 @@
+0000.000 (0) Opened log file at time: Fri, 11 Sep 2015 06:38:24 +0000 on http://xsblogs.xq.com.tw
+0000.003 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.1.1 PHP: 5.5.9-1ubuntu4.9 (Linux sl-xsblogs 3.13.0-24-generic #47-Ubuntu SMP Fri May 2 23:30:00 UTC 2014 x86_64) MySQL:  Server: nginx/1.4.6 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 4.8M | 5.5M) multisite: N mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.004 (0) Free space on disk containing Updraft's temporary directory: 120504.5 Mb
+0000.006 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB:  (schedule: daily)
+0000.007 (0) Processed schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.009 (0) Requesting semaphore lock (fd)
+0000.012 (0) Set semaphore last lock (fd) time to 2015-09-11 06:38:24
+0000.013 (0) Semaphore lock (fd) complete
+0000.018 (0) Backup run: resumption=0, nonce=2e1b36a2466b, begun at=1441953504 (0s ago), job type=backup
+0000.020 (0) Scheduling a resumption (1) after 300 seconds (1441953804) in case this run gets aborted
+0000.022 (0) Checking if we have a zip executable available
+0000.024 (0) Creation of backups of directories: beginning
+0000.028 (0) Beginning creation of dump of plugins (split every: 500 Mb)
+0000.081 (0) Total entities for the zip file: 308 directories, 1751 files (0 skipped as non-modified), 30.4 Mb
+0000.091 (0) Zip: backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-plugins.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0000.098 (0) Zip: backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-plugins.zip.tmp: 200 files added (on-disk size: 0 Kb)
+0000.106 (0) Zip: backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-plugins.zip.tmp: 300 files added (on-disk size: 0 Kb)
+0000.114 (0) Zip: backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-plugins.zip.tmp: 400 files added (on-disk size: 0 Kb)
+0000.123 (0) Zip: backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-plugins.zip.tmp: 500 files added (on-disk size: 0 Kb)
+0000.124 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.5 Mb, 1751 files batched, 501 (501) added so far); re-opening (prior size: 0 Kb)
+0000.945 (0) Zip: backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-plugins.zip.tmp: 600 files added (on-disk size: 3254.7 Kb)
+0000.954 (0) Zip: backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-plugins.zip.tmp: 700 files added (on-disk size: 3254.7 Kb)
+0000.963 (0) Zip: backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-plugins.zip.tmp: 800 files added (on-disk size: 3254.7 Kb)
+0000.973 (0) Zip: backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-plugins.zip.tmp: 900 files added (on-disk size: 3254.7 Kb)
+0000.984 (0) Zip: backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-plugins.zip.tmp: 1000 files added (on-disk size: 3254.7 Kb)
+0000.985 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (17.9 Mb, 1751 files batched, 501 (1002) added so far); re-opening (prior size: 3254.7 Kb)
+0002.901 (0) Zip: backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-plugins.zip.tmp: 1100 files added (on-disk size: 9721.9 Kb)
+0002.917 (0) Zip: backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-plugins.zip.tmp: 1200 files added (on-disk size: 9721.9 Kb)
+0002.933 (0) Zip: backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-plugins.zip.tmp: 1300 files added (on-disk size: 9721.9 Kb)
+0002.949 (0) Zip: backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-plugins.zip.tmp: 1400 files added (on-disk size: 9721.9 Kb)
+0002.967 (0) Zip: backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-plugins.zip.tmp: 1500 files added (on-disk size: 9721.9 Kb)
+0002.969 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.1 Mb, 1751 files batched, 501 (1503) added so far); re-opening (prior size: 9721.9 Kb)
+0003.266 (0) Zip: backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-plugins.zip.tmp: 1600 files added (on-disk size: 10571.1 Kb)
+0003.285 (0) Zip: backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-plugins.zip.tmp: 1700 files added (on-disk size: 10571.1 Kb)
+0003.623 (0) Created plugins zip (0) - 11696.5 Kb in 3.6 s (3255 Kb/s) (SHA1 checksum: 4f2be8d35e20121bacc70b14e89fd72a705632e6)
+0003.626 (0) Beginning creation of dump of themes (split every: 500 Mb)
+0003.633 (0) Total entities for the zip file: 19 directories, 139 files (0 skipped as non-modified), 2 Mb
+0003.638 (0) Zip: backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-themes.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0003.804 (0) Created themes zip (0) - 1627.8 Kb in 0.2 s (9263.4 Kb/s) (SHA1 checksum: ea3a484ae58256f9b389f5923c96377940c51c49)
+0003.806 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone
+0003.808 (0) Looking for candidates to back up in: /var/sites/xsblogs/wp-content/uploads
+0003.809 (0) finding files: 2015: adding to list (1)
+0003.810 (0) Beginning creation of dump of uploads (split every: 500 Mb)
+0003.835 (0) Total entities for the zip file: 8 directories, 1190 files (0 skipped as non-modified), 81.3 Mb
+0003.840 (0) Zip: backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-uploads.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0003.845 (0) Zip: backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-uploads.zip.tmp: 200 files added (on-disk size: 0 Kb)
+0003.850 (0) Zip: backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-uploads.zip.tmp: 300 files added (on-disk size: 0 Kb)
+0003.851 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 Mb added on this batch (25 Mb, 1190 files batched, 301 (301) added so far); re-opening (prior size: 0 Kb)
+0005.285 (0) A useful amount of data was added after this amount of zip processing: 1.6 s (normalised: 1.6 s, rate: 16474.6 Kb/s)
+0005.287 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.5550711154938, normalised_time=1.5539047858975, max_time=-1, data points known=0, old_max_bytes=26214400, new_max_bytes=101220101)
+0005.295 (0) Zip: backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-uploads.zip.tmp: 400 files added (on-disk size: 24306.1 Kb)
+0005.300 (0) Zip: backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-uploads.zip.tmp: 500 files added (on-disk size: 24306.1 Kb)
+0005.307 (0) Zip: backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-uploads.zip.tmp: 600 files added (on-disk size: 24306.1 Kb)
+0005.314 (0) Zip: backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-uploads.zip.tmp: 700 files added (on-disk size: 24306.1 Kb)
+0005.321 (0) Zip: backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-uploads.zip.tmp: 800 files added (on-disk size: 24306.1 Kb)
+0005.322 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (32.3 Mb, 1190 files batched, 501 (802) added so far); re-opening (prior size: 24306.1 Kb)
+0007.081 (0) Zip: backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-uploads.zip.tmp: 900 files added (on-disk size: 56290.9 Kb)
+0007.090 (0) Zip: backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-uploads.zip.tmp: 1000 files added (on-disk size: 56290.9 Kb)
+0007.099 (0) Zip: backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-uploads.zip.tmp: 1100 files added (on-disk size: 56290.9 Kb)
+0009.478 (0) Created uploads zip (0) - 80192.5 Kb in 5.7 s (14152.4 Kb/s) (SHA1 checksum: c5fb60da4d08246adb4fd971eab2fc8d4ce56afa)
+0009.482 (0) Beginning backup of other directories found in the content directory (index: 0)
+0009.483 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups
+0009.484 (0) Looking for candidates to back up in: /var/sites/xsblogs/wp-content
+0009.485 (0) finding files: wp-cache-config.php: adding to list (1)
+0009.486 (0) finding files: updraft: skipping: this is the updraft directory
+0009.487 (0) finding files: advanced-cache.php: adding to list (2)
+0009.488 (0) finding files: languages: adding to list (3)
+0009.490 (0) finding files: uploads: skipping: this is the uploads directory
+0009.491 (0) finding files: cache: skipping: excluded by options
+0009.492 (0) finding files: themes: skipping: this is the themes directory
+0009.492 (0) finding files: plugins: skipping: this is the plugins directory
+0009.494 (0) finding files: index.php: adding to list (4)
+0009.495 (0) finding files: upgrade: skipping: excluded by options
+0009.499 (0) Total entities for the zip file: 3 directories, 21 files (0 skipped as non-modified), 1.3 Mb
+0009.677 (0) Created others zip (0) - 413.2 Kb in 0.2 s (2293.6 Kb/s) (SHA1 checksum: 99cd44960b6b3a9cbd5ad748aa86a7cbcce7586c)
+0009.683 (0) Saving backup status to database (elements: 8)
+0009.686 (0) Beginning creation of database dump (WordPress DB)
+0009.688 (0) Testing: /usr/bin/mysqldump
+0009.706 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0009.715 (0) Table wp_options: Total expected rows (approximate): 905
+0010.120 (0) Table wp_options: Total rows added: 1371 in 0.40 seconds
+0010.123 (0) Table wp_options: finishing file (backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-db-table-wp_options.table.gz - 1400.9 Kb)
+0010.128 (0) Table wp_users: Total expected rows (approximate): 4
+0010.132 (0) Table wp_users: Total rows added: 4 in 0.00 seconds
+0010.134 (0) Table wp_users: finishing file (backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-db-table-wp_users.table.gz - 0.7 Kb)
+0010.138 (0) Table wp_usermeta: Total expected rows (approximate): 73
+0010.143 (0) Table wp_usermeta: Total rows added: 73 in 0.00 seconds
+0010.145 (0) Table wp_usermeta: finishing file (backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-db-table-wp_usermeta.table.gz - 2.3 Kb)
+0010.149 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0010.151 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0010.152 (0) Table wp_commentmeta: finishing file (backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-db-table-wp_commentmeta.table.gz - 0.4 Kb)
+0010.156 (0) Table wp_comments: Total expected rows (approximate): 0
+0010.159 (0) Table wp_comments: Total rows added: 0 in 0.00 seconds
+0010.160 (0) Table wp_comments: finishing file (backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-db-table-wp_comments.table.gz - 0.5 Kb)
+0010.164 (0) Table wp_links: Total expected rows (approximate): 0
+0010.167 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0010.168 (0) Table wp_links: finishing file (backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-db-table-wp_links.table.gz - 0.4 Kb)
+0010.174 (0) Table wp_postmeta: Total expected rows (approximate): 3719
+0010.270 (0) Table wp_postmeta: Total rows added: 2995 in 0.09 seconds
+0010.273 (0) Table wp_postmeta: finishing file (backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-db-table-wp_postmeta.table.gz - 45.1 Kb)
+0010.282 (0) Table wp_posts: Total expected rows (approximate): 1580
+0010.713 (0) Table wp_posts: Total rows added: 1823 in 0.43 seconds
+0010.716 (0) Table wp_posts: finishing file (backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-db-table-wp_posts.table.gz - 604.5 Kb)
+0010.720 (0) Table wp_term_relationships: Total expected rows (approximate): 414
+0010.729 (0) Table wp_term_relationships: Total rows added: 414 in 0.01 seconds
+0010.731 (0) Table wp_term_relationships: finishing file (backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-db-table-wp_term_relationships.table.gz - 1.6 Kb)
+0010.735 (0) Table wp_term_taxonomy: Total expected rows (approximate): 20
+0010.738 (0) Table wp_term_taxonomy: Total rows added: 20 in 0.00 seconds
+0010.740 (0) Table wp_term_taxonomy: finishing file (backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-db-table-wp_term_taxonomy.table.gz - 0.6 Kb)
+0010.744 (0) Table wp_terms: Total expected rows (approximate): 20
+0010.747 (0) Table wp_terms: Total rows added: 20 in 0.00 seconds
+0010.748 (0) Table wp_terms: finishing file (backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-db-table-wp_terms.table.gz - 1 Kb)
+0010.752 (0) Table wp_duplicator_packages: Total expected rows (approximate): 0
+0010.755 (0) Table wp_duplicator_packages: Total rows added: 0 in 0.00 seconds
+0010.756 (0) Table wp_duplicator_packages: finishing file (backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-db-table-wp_duplicator_packages.table.gz - 0.4 Kb)
+0010.760 (0) Table wp_yuzoviews: Total expected rows (approximate): 348
+0010.772 (0) Table wp_yuzoviews: Total rows added: 348 in 0.01 seconds
+0010.774 (0) Table wp_yuzoviews: finishing file (backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-db-table-wp_yuzoviews.table.gz - 5.8 Kb)
+0010.778 (0) backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-db-table-wp_options.table.gz (1/13): adding to final database dump
+0011.153 (0) backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-db-table-wp_users.table.gz (2/13): adding to final database dump
+0011.155 (0) backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-db-table-wp_usermeta.table.gz (3/13): adding to final database dump
+0011.157 (0) backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-db-table-wp_commentmeta.table.gz (4/13): adding to final database dump
+0011.158 (0) backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-db-table-wp_comments.table.gz (5/13): adding to final database dump
+0011.159 (0) backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-db-table-wp_links.table.gz (6/13): adding to final database dump
+0011.160 (0) backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-db-table-wp_postmeta.table.gz (7/13): adding to final database dump
+0011.188 (0) backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-db-table-wp_posts.table.gz (8/13): adding to final database dump
+0011.377 (0) backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-db-table-wp_term_relationships.table.gz (9/13): adding to final database dump
+0011.380 (0) backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-db-table-wp_term_taxonomy.table.gz (10/13): adding to final database dump
+0011.381 (0) backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-db-table-wp_terms.table.gz (11/13): adding to final database dump
+0011.382 (0) backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-db-table-wp_duplicator_packages.table.gz (12/13): adding to final database dump
+0011.383 (0) backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-db-table-wp_yuzoviews.table.gz (13/13): adding to final database dump
+0011.388 (0) backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-db.gz: finished writing out complete database file (2056 Kb)
+0011.408 (0) Total database tables backed up: 13 (backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-db.gz, size: 2112448, checksum (SHA1): 7e318b4cd07e2fee5e1c9385a6777db5715eaa0b)
+0011.411 (0) Saving backup history
+0011.415 (0) backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0011.416 (0) backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0011.417 (0) backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0011.418 (0) backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-others.zip: others: This file has not yet been successfully uploaded: will queue
+0011.419 (0) backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-db.gz: db: This file has not yet been successfully uploaded: will queue
+0011.421 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0011.424 (0) Cloud backup selection (1/1): googledrive (last)
+0011.425 (0) Beginning dispatch of backup to remote (googledrive)
+0011.427 (0) Google Drive: requesting access token: client_id=760996085344-8rnqjcmm4hmfuc25ro3nbb9ud00j2t26.apps.googleusercontent.com
+0011.814 (0) Google Drive: successfully obtained access token
+0013.391 (0) Google Drive quota usage: used=9747.4 Mb, total=27648 Mb, available=17900.6 Mb
+0013.392 (0) backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-plugins.zip: Attempting to upload to Google Drive (into folder id: 0B9SIX2k9xBJpeDNaZzlXUEtJVGs)
+0014.437 (0) Googledrive chunked upload: 8.8 % uploaded (1048576)
+0014.872 (0) Googledrive chunked upload: 17.5 % uploaded (2097152)
+0015.147 (0) Googledrive chunked upload: 26.3 % uploaded (3145728)
+0015.276 (0) Googledrive chunked upload: 35 % uploaded (4194304)
+0015.406 (0) Googledrive chunked upload: 43.8 % uploaded (5242880)
+0015.578 (0) Googledrive chunked upload: 52.5 % uploaded (6291456)
+0015.746 (0) Googledrive chunked upload: 61.3 % uploaded (7340032)
+0015.896 (0) Googledrive chunked upload: 70 % uploaded (8388608)
+0016.041 (0) Googledrive chunked upload: 78.8 % uploaded (9437184)
+0016.172 (0) Googledrive chunked upload: 87.5 % uploaded (10485760)
+0016.458 (0) Googledrive chunked upload: 96.3 % uploaded (11534336)
+0018.169 (0) Googledrive chunked upload: 100 % uploaded (11534336)
+0018.172 (0) OK: Archive backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-plugins.zip uploaded to Google Drive in 4.78 seconds
+0018.175 (0) Recording as successfully uploaded: backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-plugins.zip (54e4af212df1cf3a9a87d3b6b61b33c5)
+0018.183 (0) Deleting local file: backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-plugins.zip: OK
+0018.574 (0) Google Drive quota usage: used=9758.9 Mb, total=27648 Mb, available=17889.1 Mb
+0018.576 (0) backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-themes.zip: Attempting to upload to Google Drive (into folder id: 0B9SIX2k9xBJpeDNaZzlXUEtJVGs)
+0019.227 (0) Googledrive chunked upload: 62.9 % uploaded (1048576)
+0020.681 (0) Googledrive chunked upload: 100 % uploaded (1048576)
+0020.685 (0) OK: Archive backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-themes.zip uploaded to Google Drive in 2.11 seconds
+0020.687 (0) Recording as successfully uploaded: backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-themes.zip (94b9a513e37fc0a21585725391785371)
+0020.692 (0) Deleting local file: backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-themes.zip: OK
+0021.081 (0) Google Drive quota usage: used=9760.5 Mb, total=27648 Mb, available=17887.5 Mb
+0021.082 (0) backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-uploads.zip: Attempting to upload to Google Drive (into folder id: 0B9SIX2k9xBJpeDNaZzlXUEtJVGs)
+0021.713 (0) Googledrive chunked upload: 1.3 % uploaded (1048576)
+0021.823 (0) Googledrive chunked upload: 2.6 % uploaded (2097152)
+0021.933 (0) Googledrive chunked upload: 3.8 % uploaded (3145728)
+0022.042 (0) Googledrive chunked upload: 5.1 % uploaded (4194304)
+0022.160 (0) Googledrive chunked upload: 6.4 % uploaded (5242880)
+0022.275 (0) Googledrive chunked upload: 7.7 % uploaded (6291456)
+0022.394 (0) Googledrive chunked upload: 8.9 % uploaded (7340032)
+0022.902 (0) Googledrive chunked upload: 10.2 % uploaded (8388608)
+0023.122 (0) Googledrive chunked upload: 11.5 % uploaded (9437184)
+0023.703 (0) Googledrive chunked upload: 12.8 % uploaded (10485760)
+0023.915 (0) Googledrive chunked upload: 14 % uploaded (11534336)
+0024.080 (0) Googledrive chunked upload: 15.3 % uploaded (12582912)
+0024.228 (0) Googledrive chunked upload: 16.6 % uploaded (13631488)
+0024.371 (0) Googledrive chunked upload: 17.9 % uploaded (14680064)
+0024.512 (0) Googledrive chunked upload: 19.2 % uploaded (15728640)
+0024.660 (0) Googledrive chunked upload: 20.4 % uploaded (16777216)
+0024.811 (0) Googledrive chunked upload: 21.7 % uploaded (17825792)
+0024.958 (0) Googledrive chunked upload: 23 % uploaded (18874368)
+0025.108 (0) Googledrive chunked upload: 24.3 % uploaded (19922944)
+0025.264 (0) Googledrive chunked upload: 25.5 % uploaded (20971520)
+0025.422 (0) Googledrive chunked upload: 26.8 % uploaded (22020096)
+0025.575 (0) Googledrive chunked upload: 28.1 % uploaded (23068672)
+0025.714 (0) Googledrive chunked upload: 29.4 % uploaded (24117248)
+0026.231 (0) Googledrive chunked upload: 30.6 % uploaded (25165824)
+0026.450 (0) Googledrive chunked upload: 31.9 % uploaded (26214400)
+0026.622 (0) Googledrive chunked upload: 33.2 % uploaded (27262976)
+0026.772 (0) Googledrive chunked upload: 34.5 % uploaded (28311552)
+0026.919 (0) Googledrive chunked upload: 35.8 % uploaded (29360128)
+0027.074 (0) Googledrive chunked upload: 37 % uploaded (30408704)
+0027.215 (0) Googledrive chunked upload: 38.3 % uploaded (31457280)
+0027.412 (0) Googledrive chunked upload: 39.6 % uploaded (32505856)
+0027.559 (0) Googledrive chunked upload: 40.9 % uploaded (33554432)
+0027.717 (0) Googledrive chunked upload: 42.1 % uploaded (34603008)
+0027.858 (0) Googledrive chunked upload: 43.4 % uploaded (35651584)
+0028.016 (0) Googledrive chunked upload: 44.7 % uploaded (36700160)
+0028.164 (0) Googledrive chunked upload: 46 % uploaded (37748736)
+0028.308 (0) Googledrive chunked upload: 47.2 % uploaded (38797312)
+0028.455 (0) Googledrive chunked upload: 48.5 % uploaded (39845888)
+0028.607 (0) Googledrive chunked upload: 49.8 % uploaded (40894464)
+0028.754 (0) Googledrive chunked upload: 51.1 % uploaded (41943040)
+0028.912 (0) Googledrive chunked upload: 52.4 % uploaded (42991616)
+0029.972 (0) Googledrive chunked upload: 53.6 % uploaded (44040192)
+0030.187 (0) Googledrive chunked upload: 54.9 % uploaded (45088768)
+0030.358 (0) Googledrive chunked upload: 56.2 % uploaded (46137344)
+0030.538 (0) Googledrive chunked upload: 57.5 % uploaded (47185920)
+0030.711 (0) Googledrive chunked upload: 58.7 % uploaded (48234496)
+0030.863 (0) Googledrive chunked upload: 60 % uploaded (49283072)
+0031.011 (0) Googledrive chunked upload: 61.3 % uploaded (50331648)
+0031.170 (0) Googledrive chunked upload: 62.6 % uploaded (51380224)
+0031.314 (0) Googledrive chunked upload: 63.8 % uploaded (52428800)
+0031.484 (0) Googledrive chunked upload: 65.1 % uploaded (53477376)
+0031.992 (0) Googledrive chunked upload: 66.4 % uploaded (54525952)
+0032.207 (0) Googledrive chunked upload: 67.7 % uploaded (55574528)
+0032.371 (0) Googledrive chunked upload: 69 % uploaded (56623104)
+0032.530 (0) Googledrive chunked upload: 70.2 % uploaded (57671680)
+0032.898 (0) Googledrive chunked upload: 71.5 % uploaded (58720256)
+0033.120 (0) Googledrive chunked upload: 72.8 % uploaded (59768832)
+0033.671 (0) Googledrive chunked upload: 74.1 % uploaded (60817408)
+0033.895 (0) Googledrive chunked upload: 75.3 % uploaded (61865984)
+0034.056 (0) Googledrive chunked upload: 76.6 % uploaded (62914560)
+0034.229 (0) Googledrive chunked upload: 77.9 % uploaded (63963136)
+0034.378 (0) Googledrive chunked upload: 79.2 % uploaded (65011712)
+0034.521 (0) Googledrive chunked upload: 80.4 % uploaded (66060288)
+0034.666 (0) Googledrive chunked upload: 81.7 % uploaded (67108864)
+0034.810 (0) Googledrive chunked upload: 83 % uploaded (68157440)
+0034.963 (0) Googledrive chunked upload: 84.3 % uploaded (69206016)
+0035.124 (0) Googledrive chunked upload: 85.6 % uploaded (70254592)
+0035.274 (0) Googledrive chunked upload: 86.8 % uploaded (71303168)
+0035.426 (0) Googledrive chunked upload: 88.1 % uploaded (72351744)
+0035.575 (0) Googledrive chunked upload: 89.4 % uploaded (73400320)
+0035.730 (0) Googledrive chunked upload: 90.7 % uploaded (74448896)
+0035.872 (0) Googledrive chunked upload: 91.9 % uploaded (75497472)
+0036.019 (0) Googledrive chunked upload: 93.2 % uploaded (76546048)
+0036.167 (0) Googledrive chunked upload: 94.5 % uploaded (77594624)
+0036.310 (0) Googledrive chunked upload: 95.8 % uploaded (78643200)
+0036.462 (0) Googledrive chunked upload: 97 % uploaded (79691776)
+0036.606 (0) Googledrive chunked upload: 98.3 % uploaded (80740352)
+0036.753 (0) Googledrive chunked upload: 99.6 % uploaded (81788928)
+0038.307 (0) Googledrive chunked upload: 100 % uploaded (81788928)
+0038.311 (0) OK: Archive backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-uploads.zip uploaded to Google Drive in 17.23 seconds
+0038.313 (0) Recording as successfully uploaded: backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-uploads.zip (9e3cd39e1c7dd7a3656b62663655bf7e)
+0038.338 (0) Deleting local file: backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-uploads.zip: OK
+0038.826 (0) Google Drive quota usage: used=9838.8 Mb, total=27648 Mb, available=17809.2 Mb
+0038.828 (0) backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-others.zip: Attempting to upload to Google Drive (into folder id: 0B9SIX2k9xBJpeDNaZzlXUEtJVGs)
+0040.931 (0) Googledrive chunked upload: 100 % uploaded
+0040.935 (0) OK: Archive backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-others.zip uploaded to Google Drive in 2.11 seconds
+0040.938 (0) Recording as successfully uploaded: backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-others.zip (6122c77458332418b6c0c4d44092bfd3)
+0040.942 (0) Deleting local file: backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-others.zip: OK
+0041.343 (0) Google Drive quota usage: used=9839.2 Mb, total=27648 Mb, available=17808.8 Mb
+0041.345 (0) backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-db.gz: Attempting to upload to Google Drive (into folder id: 0B9SIX2k9xBJpeDNaZzlXUEtJVGs)
+0041.967 (0) Googledrive chunked upload: 49.6 % uploaded (1048576)
+0042.111 (0) Googledrive chunked upload: 99.3 % uploaded (2097152)
+0043.501 (0) Googledrive chunked upload: 100 % uploaded (2097152)
+0043.506 (0) OK: Archive backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-db.gz uploaded to Google Drive in 2.16 seconds
+0043.508 (0) Recording as successfully uploaded: backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-db.gz (9ba6db809cbbca78d402e737e6a46d07)
+0043.513 (0) Deleting local file: backup_2015-09-11-1438_xsblogsxqcomtw_2e1b36a2466b-db.gz: OK
+0043.516 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0043.518 (0) Number of backup sets in history: 3
+0043.519 (0) Examining backup set with datestamp: 1441953504 (Sep 11 2015 06:38:24)
+0044.800 (0) 1441953504: this backup set remains non-empty (1/1); will retain in history
+0044.802 (0) Examining backup set with datestamp: 1441867163 (Sep 10 2015 06:39:23)
+0045.308 (0) 1441867163: this backup set remains non-empty (1/1); will retain in history
+0045.310 (0) Examining backup set with datestamp: 1441780667 (Sep 09 2015 06:37:47)
+0045.311 (0) 1441780667: db: this set includes a database (backup_2015-09-09-1437_xsblogsxqcomtw_72d08eb315fc-db.gz); db count is now 3
+0045.311 (0) 1441780667: db: over retain limit (2); will delete this database
+0045.312 (0) Delete file: backup_2015-09-09-1437_xsblogsxqcomtw_72d08eb315fc-db.gz, service=googledrive
+0046.987 (0) backup_2015-09-09-1437_xsblogsxqcomtw_72d08eb315fc-db.gz: Deletion successful
+0046.993 (0) plugins: 1441780667: over retain limit (2); will delete this file (backup_2015-09-09-1437_xsblogsxqcomtw_72d08eb315fc-plugins.zip)
+0046.994 (0) themes: 1441780667: over retain limit (2); will delete this file (backup_2015-09-09-1437_xsblogsxqcomtw_72d08eb315fc-themes.zip)
+0046.995 (0) uploads: 1441780667: over retain limit (2); will delete this file (backup_2015-09-09-1437_xsblogsxqcomtw_72d08eb315fc-uploads.zip)
+0046.996 (0) others: 1441780667: over retain limit (2); will delete this file (backup_2015-09-09-1437_xsblogsxqcomtw_72d08eb315fc-others.zip)
+0046.997 (0) Delete file: backup_2015-09-09-1437_xsblogsxqcomtw_72d08eb315fc-plugins.zip, service=googledrive
+0046.998 (0) Delete file: backup_2015-09-09-1437_xsblogsxqcomtw_72d08eb315fc-themes.zip, service=googledrive
+0046.999 (0) Delete file: backup_2015-09-09-1437_xsblogsxqcomtw_72d08eb315fc-uploads.zip, service=googledrive
+0047.000 (0) Delete file: backup_2015-09-09-1437_xsblogsxqcomtw_72d08eb315fc-others.zip, service=googledrive
+0048.523 (0) backup_2015-09-09-1437_xsblogsxqcomtw_72d08eb315fc-others.zip: Deletion successful
+0049.342 (0) backup_2015-09-09-1437_xsblogsxqcomtw_72d08eb315fc-uploads.zip: Deletion successful
+0050.119 (0) backup_2015-09-09-1437_xsblogsxqcomtw_72d08eb315fc-themes.zip: Deletion successful
+0050.891 (0) backup_2015-09-09-1437_xsblogsxqcomtw_72d08eb315fc-plugins.zip: Deletion successful
+0050.896 (0) 1441780667: this backup set is now empty; will remove from history
+0050.898 (0) 1441780667: deleting log file (log.72d08eb315fc.txt)
+0050.899 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0050.902 (0) Resume backup (2e1b36a2466b, 0): finish run
+0050.905 (0) Decremented the semaphore (fd) by 1
+0050.906 (0) Semaphore (fd) unlocked
+0050.907 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0050.911 (0) The backup apparently succeeded and is now complete
+0050.912 (0) No email will/can be sent - the user has not configured an email address.
+0050.913 (0) 備份工作已完成

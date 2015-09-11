@@ -1,0 +1,8 @@
+0000.000 (0) Opened log file at time: Tue, 01 Sep 2015 06:38:14 +0000 on http://xsblogs.xq.com.tw
+0000.003 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.1.1 PHP: 5.5.9-1ubuntu4.9 (Linux sl-xsblogs 3.13.0-24-generic #47-Ubuntu SMP Fri May 2 23:30:00 UTC 2014 x86_64) MySQL:  Server: nginx/1.4.6 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 4.8M | 5.5M) multisite: N mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.004 (0) Free space on disk containing Updraft's temporary directory: 120518 Mb
+0000.007 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB:  (schedule: daily)
+0000.008 (0) Processed schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.009 (0) Requesting semaphore lock (fd)
+0000.011 (0) Semaphore lock (fd) failed (line 41)
+0000.012 (0) Failed to gain semaphore lock (fd) - another backup of this type is apparently already active - aborting (if this is wrong - i.e. if the other backup crashed without removing the lock, then another can be started after 3 minutes)

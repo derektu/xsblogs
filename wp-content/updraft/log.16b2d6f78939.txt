@@ -1,0 +1,35 @@
+0128.858 (1) Opened log file at time: Mon, 15 Jun 2015 06:39:29 +0000 on http://xsblogs.xq.com.tw
+0128.860 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.1.1 PHP: 5.5.9-1ubuntu4.9 (Linux sl-xsblogs 3.13.0-24-generic #47-Ubuntu SMP Fri May 2 23:30:00 UTC 2014 x86_64) MySQL:  Server: nginx/1.4.6 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 4.9M | 5.5M) multisite: N mcrypt: N LANG:  ZipArchive::addFile: Y
+0128.861 (1) Free space on disk containing Updraft's temporary directory: 120482 Mb
+0128.862 (1) It looks like WordPress's scheduler has started multiple instances of this resumption
+0128.864 (1) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1434350369.2, time_now=1434350369.2, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+0128.864 (1) Rescheduling resumption 2: moving to 300 seconds from now (1434350669)
+0128.867 (1) To decrease the likelihood of overlaps, increasing resumption interval to: 300 + 0 = 300
+0441.136 (2) Opened log file at time: Mon, 15 Jun 2015 06:44:41 +0000 on http://xsblogs.xq.com.tw
+0441.137 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.1.1 PHP: 5.5.9-1ubuntu4.9 (Linux sl-xsblogs 3.13.0-24-generic #47-Ubuntu SMP Fri May 2 23:30:00 UTC 2014 x86_64) MySQL:  Server: nginx/1.4.6 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 5M | 5.5M) multisite: N mcrypt: N LANG:  ZipArchive::addFile: Y
+0441.138 (2) Free space on disk containing Updraft's temporary directory: 120482 Mb
+0441.139 (2) It looks like WordPress's scheduler has started multiple instances of this resumption
+0441.141 (2) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1434350681.5, time_now=1434350681.5, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+0441.142 (2) Rescheduling resumption 3: moving to 300 seconds from now (1434350981)
+0441.144 (2) To decrease the likelihood of overlaps, increasing resumption interval to: 300 + 0 = 300
+0761.986 (3) Opened log file at time: Mon, 15 Jun 2015 06:50:02 +0000 on http://xsblogs.xq.com.tw
+0761.988 (3) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.1.1 PHP: 5.5.9-1ubuntu4.9 (Linux sl-xsblogs 3.13.0-24-generic #47-Ubuntu SMP Fri May 2 23:30:00 UTC 2014 x86_64) MySQL:  Server: nginx/1.4.6 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 4.9M | 5.5M) multisite: N mcrypt: N LANG:  ZipArchive::addFile: Y
+0761.989 (3) Free space on disk containing Updraft's temporary directory: 120481.9 Mb
+0761.990 (3) It looks like WordPress's scheduler has started multiple instances of this resumption
+0761.992 (3) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1434351002.3, time_now=1434351002.3, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+0761.992 (3) Rescheduling resumption 4: moving to 300 seconds from now (1434351302)
+0761.995 (3) To decrease the likelihood of overlaps, increasing resumption interval to: 300 + 0 = 300
+1072.551 (4) Opened log file at time: Mon, 15 Jun 2015 06:55:12 +0000 on http://xsblogs.xq.com.tw
+1072.552 (4) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.1.1 PHP: 5.5.9-1ubuntu4.9 (Linux sl-xsblogs 3.13.0-24-generic #47-Ubuntu SMP Fri May 2 23:30:00 UTC 2014 x86_64) MySQL:  Server: nginx/1.4.6 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 5M | 5.5M) multisite: N mcrypt: N LANG:  ZipArchive::addFile: Y
+1072.553 (4) Free space on disk containing Updraft's temporary directory: 120481.9 Mb
+1072.554 (4) It looks like WordPress's scheduler has started multiple instances of this resumption
+1072.556 (4) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1434351312.9, time_now=1434351312.9, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+1072.558 (4) Rescheduling resumption 5: moving to 300 seconds from now (1434351612)
+1072.559 (4) To decrease the likelihood of overlaps, increasing resumption interval to: 300 + 0 = 300
+1391.346 (5) Opened log file at time: Mon, 15 Jun 2015 07:00:31 +0000 on http://xsblogs.xq.com.tw
+1391.348 (5) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.1.1 PHP: 5.5.9-1ubuntu4.9 (Linux sl-xsblogs 3.13.0-24-generic #47-Ubuntu SMP Fri May 2 23:30:00 UTC 2014 x86_64) MySQL:  Server: nginx/1.4.6 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 4.9M | 5.5M) multisite: N mcrypt: N LANG:  ZipArchive::addFile: Y
+1391.348 (5) Free space on disk containing Updraft's temporary directory: 120481.9 Mb
+1391.350 (5) It looks like WordPress's scheduler has started multiple instances of this resumption
+1391.352 (5) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1434351631.7, time_now=1434351631.7, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+1391.352 (5) Rescheduling resumption 6: moving to 300 seconds from now (1434351931)
+1391.355 (5) To decrease the likelihood of overlaps, increasing resumption interval to: 300 + 0 = 300

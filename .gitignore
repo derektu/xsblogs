@@ -9,6 +9,7 @@ sitemap.xml
 *.log
 wp-content/cache/
 wp-content/backups/
+wp-snapshots/
 sitemap.xml.gz
 
 
