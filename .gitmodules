@@ -1,0 +1,3 @@
+[submodule "wp-content/plugins/xscode"]
+	path = wp-content/plugins/xscode
+	url = /Users/derektu/Dropbox/Code/Wordpress/wp-xscode
