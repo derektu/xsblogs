@@ -1,0 +1,3 @@
+[submodule "wp-content/plugins/xscode"]
+	path = wp-content/plugins/xscode
+	url = https://github.com/derektu/wp-xscode
