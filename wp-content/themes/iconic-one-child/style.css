@@ -121,3 +121,9 @@ footer.entry-meta {
 .adt-comment {
     display:none;
 }
+
+.title-date {
+    font-size: 16px;
+    color: #700A0A;
+    margin-bottom: 8px;
+}
