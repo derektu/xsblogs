@@ -18,6 +18,12 @@ body {
     font-family: "Arial","微軟正黑體","Microsoft JhengHei","Lucida Grande","Lucida Sans Unicode",sans-serif;
 }
 
+.entry-content table {
+    font-size: 16px;
+    color: #000000;
+    font-family: "Arial","微軟正黑體","Microsoft JhengHei","Lucida Grande","Lucida Sans Unicode",sans-serif;
+}
+
 .themonic-logo {
     padding: 0 0 0 0px;
     margin: 0 0 0 0px;
@@ -127,3 +133,4 @@ footer.entry-meta {
     color: #700A0A;
     margin-bottom: 8px;
 }
+
